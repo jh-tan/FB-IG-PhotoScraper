@@ -18,7 +18,7 @@ To run it, you need Python 3.x on your system and a few other python packages. T
 	 c. Facebook( Without Login )
  3. Choose either one. If you choose ( a ) or ( b ). Then you will have to enter your username and password.
  4. Next, enter your scrape's target. For instagram, simply enter the profile name. The profile must be public or followed by you.
- 5. For facebook, it will ask if the target has  tagged photo. How to know if the target has tagged photo is by observed the URL. If the URL end with ' ?ref=page_internal ', then choose **No**
+ 5. For facebook, instead of enter the profile name, you have to enter the link. Then, it will ask if the target has tagged photo. How to know if the target has tagged photo is by observing the URL. If the URL end with ' ?ref=page_internal ', then choose **No**
  6. You can stop anytime by CTRL + C , and it will return all the scraped photos.
 
 <h2>Limitation</h2>
